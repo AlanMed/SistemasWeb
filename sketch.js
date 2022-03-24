@@ -13,7 +13,7 @@ let board = [];
 let blankSpot=-1;
 
 function preload() {
-  source = loadImage("./batman.jpg");
+  source = loadImage("batman.jpg");
 }
 
 function setup() {
